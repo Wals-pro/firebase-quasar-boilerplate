@@ -13,3 +13,10 @@ Each application is meant to be considered in conjunction with the dev.to blog p
   - User Profile
   - Vuexfire
   - QUploader to Google Cloud Storage
+
+## **Installation**
+npm install -g firebase-tools
+yarn add cross-env
+quasar ext add @quasar/qenv
+firebase init
+firebase deploy
